@@ -1,0 +1,9 @@
+img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .container {
+  width: 100%; /* Hace que el contenedor sea del 100% del ancho de la pantalla */
+  display: block; /* Puede ser display: flex o display: grid según tu diseño */
+}
